@@ -1,0 +1,17 @@
+   PID USERNAME  SIZE   RSS STATE  PRI NICE      TIME  CPU PROCESS/LWPID      
+ 22317 redhat   3756K 2876K cpu0    10    0   0:00:01 6.9% prstat/1
+ 22297 redhat   6392K 3668K sleep   59    0   0:00:01 0.8% sshd/1
+ 22303 redhat   1456K  864K sleep   59    0   0:00:00 0.1% sh/1
+ 22296 root     4780K 2484K sleep   59    0   0:00:00 0.1% sshd/1
+   148 daemon   4264K 2088K sleep   59    0   0:00:05 0.1% kcfd/2
+   634 root     9560K 5808K sleep   59    0   0:01:06 0.1% snmpd/1
+   360 daemon   5584K 2652K sleep   59    0   0:59:15 0.1% nfsmapid/4
+   780 noaccess  159M  101M sleep   59    0   1:04:59 0.0% java/14
+   596 root     3880K 1256K sleep   59    0   0:00:01 0.0% sshd/1
+   527 root     2888K 1696K sleep   59    0   0:00:11 0.0% automountd/1
+   666 root       20M   13M sleep   59    0   0:38:03 0.0% Xorg/1
+     1 root     2496K 1056K sleep   59    0   0:01:27 0.0% init/1
+   544 root     4508K 1876K sleep   59    0   0:00:00 0.0% syslogd/126
+   780 noaccess  159M  101M sleep   59    0   0:23:27 0.0% java/36
+   738 root       11M 6972K sleep   59    0   0:24:03 0.0% dtgreet/1
+Total: 48 processes, 207 lwps, load averages: 0.36, 0.16, 0.12
